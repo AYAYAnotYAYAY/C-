@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507636888 source:c:\c软件\boy next door\数组实例\main.c
+	<stdio.h>
+	<stdlib.h>
+

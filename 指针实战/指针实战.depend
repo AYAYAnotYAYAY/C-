@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507649802 source:c:\c软件\boy next door\指针实战\main.c
+	<stdio.h>
+	<stdlib.h>
+

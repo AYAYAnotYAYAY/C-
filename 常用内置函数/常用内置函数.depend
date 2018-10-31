@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508682381 source:c:\c软件\boy next door\常用内置函数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

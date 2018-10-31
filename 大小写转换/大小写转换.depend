@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508866769 source:c:\c软件\boy next door\大小写转换\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

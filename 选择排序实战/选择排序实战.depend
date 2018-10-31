@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513257039 source:c:\c软件\boy next door\选择排序实战\main.c
+	<stdio.h>
+	<stdlib.h>
+

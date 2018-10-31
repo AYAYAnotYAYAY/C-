@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507744770 source:c:\c软件\boy next door\内存偏移取人物坐标\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
